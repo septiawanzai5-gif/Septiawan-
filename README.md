@@ -1,2 +1,2 @@
-# Septiawan-
+# Septiaw - lidtyn
 Coding AI
